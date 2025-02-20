@@ -1,0 +1,46 @@
+body{
+    color: white;
+}
+main{
+    width: 100%
+}
+.container{
+    width: 100%;
+}
+
+.header{
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    .header-navbar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.65rem 1rem;
+        .div-logo{
+            width: 5.5rem;
+            display: flex;
+        }
+        nav, p, button{
+            display: none;
+        }
+        & span {
+            display: block;
+            color: white;
+            font-size: 2rem;
+            font-weight: 500;
+            padding: 0 2rem;
+        }
+    }
+}
+
+.section-hero {
+    background-color: #121212;
+    .img-bg{
+        width: 100%;
+        background-image: url(../assets/images/mobile-album-evergreen-1x.png);
+    }
+}
+
+
