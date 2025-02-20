@@ -30,8 +30,12 @@ En esta sección se registrarán los avances diarios del proyecto.
   - Se incorporaron los enlaces a FontAwesome y Google Material Icons en el `<head>`.
 
 - **Día 2:**
- -  Creacion de archivo README.md
- - Para hevitar problemas en la rama principal he creado una rama html
+  - Creación del archivo `README.md`.
+  - Para evitar problemas en la rama principal, he creado una rama `html`.
+  - Finalizada la estructura de HTML usando etiquetado semántico.
+  - He aprendido a usar las etiquetas `<details>` y `<summary>`.
+  - Creado el deploy en Vercel: [landing-spotify-carlosdamota](https://1-landing-spotify-carlosdamota.vercel.app/).
+  - Creada la rama `css` para empezar a estilizar.
 
 *(Cada día se irán añadiendo nuevas entradas según se vayan implementando cambios.)*
 
@@ -39,6 +43,7 @@ En esta sección se registrarán los avances diarios del proyecto.
 
 1. Clona el repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador para visualizar la página.
+3. Tambien puedes visualizarlo en [landing-spotify-carlosdamota](https://1-landing-spotify-carlosdamota.vercel.app/)
 
 ## Capturas
 
