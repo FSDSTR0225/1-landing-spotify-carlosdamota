@@ -9,7 +9,24 @@ El objetivo de este proyecto es replicar el diseño y la estructura visual de la
 ## Estructura del Proyecto
 
 La estructura de carpetas y archivos es la siguiente:
-/ ├── assets/ │ └── imagenes/ │ └── screenshot_spotify_premium.png (Captura de la página original) ├── style/ │ ├── reset.css (Reset de CSS de Erik Meyer) │ └── style.css (Estilos principales) ├── index.html (Contiene el header, nav y la primera sección) └── README.md
+📦 1-LANDING-SPOTIFY-CARLOSDAMOTA/
+├── 📂 assets/
+│   └── 📂 images/
+│       ├── 📄 cards-images.png
+│       ├── 📄 desktop-album-evergreen-1x.png
+│       ├── 📄 facebook.svg
+│       ├── 📄 instagram.svg
+│       ├── 📄 mobile-album-evergreen-1x.png
+│       ├── 📄 mobile-album-evergreen-2x.png
+│       ├── 📄 screenshot_spotify_premium.png
+│       ├── 📄 spotify-logo.svg
+│       └── 📄 xtwitter.svg
+├── 📂 style/
+│   ├── 📄 reset.css
+│   └── 📄 style.css
+├── 📄 index.html
+└── 📄 README.md
+
 
 ## Recursos y Enlaces
 
