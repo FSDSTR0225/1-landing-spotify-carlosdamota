@@ -54,6 +54,10 @@ En esta sección se registrarán los avances diarios del proyecto.
   - Creado el deploy en Vercel: [landing-spotify-carlosdamota](https://1-landing-spotify-carlosdamota.vercel.app/).
   - Creada la rama `css` para empezar a estilizar.
 
+  - **Día 3:**
+  - He decidido hacer mobile firs
+  - Finalizado header y section hero
+
 *(Cada día se irán añadiendo nuevas entradas según se vayan implementando cambios.)*
 
 ## Cómo Ejecutar el Proyecto
