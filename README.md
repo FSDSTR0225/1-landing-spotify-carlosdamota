@@ -51,7 +51,6 @@ En esta sección se registrarán los avances diarios del proyecto.
   - Para evitar problemas en la rama principal, he creado una rama `html`.
   - Finalizada la estructura de HTML usando etiquetado semántico.
   - He aprendido a usar las etiquetas `<details>` y `<summary>`.
-  - Creado el deploy en Vercel: [landing-spotify-carlosdamota](https://1-landing-spotify-carlosdamota.vercel.app/).
   - Creada la rama `css` para empezar a estilizar.
 
   - **Día 3:**
@@ -64,7 +63,7 @@ En esta sección se registrarán los avances diarios del proyecto.
 
 1. Clona el repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador para visualizar la página.
-3. Tambien puedes visualizarlo en [landing-spotify-carlosdamota](https://1-landing-spotify-carlosdamota.vercel.app/)
+
 
 ## Capturas
 
