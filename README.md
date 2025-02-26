@@ -88,6 +88,7 @@ En esta sección se registrarán los avances diarios del proyecto.
 
 1. Clona el repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador para visualizar la página.
+3. Visita el deploy hecho en vercel https://1-landing-spotify-carlosdamota.vercel.app/
 
 
 ## Capturas
