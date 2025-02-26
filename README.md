@@ -66,6 +66,15 @@ En esta sección se registrarán los avances diarios del proyecto.
 - Se ha aplicado globalmente el `box-sizing: border-box` para integrar padding y bordes en el cálculo de los anchos.  
 - Estos ajustes aseguran un diseño responsive coherente y una experiencia de usuario mejorada en distintos dispositivos.  
 
+  - **Día 4**
+- Finalización de la tabla comparativa con efectos hover y optimización responsive
+- Implementación completa de las tarjetas de planes Premium con esquemas de colores distintivos
+- Mejora en la estructura de grid para mostrar 3 columnas en pantallas grandes (>1200px)
+- Ajuste responsive de botones en sección hero para alineación horizontal en pantallas >535px
+- Optimización de comportamiento responsive entre dispositivos móviles y desktop
+- Refinamiento de estilos en elementos interactivos con efectos hover (scale 1.05)
+
+
 *(Cada día se irán añadiendo nuevas entradas según se vayan implementando cambios.)*
 
 ## Cómo Ejecutar el Proyecto
