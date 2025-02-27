@@ -60,11 +60,11 @@ En esta sección se registrarán los avances diarios del proyecto.
 - **Día 3:**
   - Se han añadido media queries para adaptar el diseño a pantallas grandes, siguiendo un enfoque mobile-first.  
   - Gracias a estas media queries, elementos como el menú de navegación se muestran y organizan correctamente en dispositivos de escritorio.  
- - Se ha iniciado la estilización de la sección de la tabla, mejorando la legibilidad y consistencia visual.  
- - Se corrigió la sección del hero para que la imagen de fondo y el texto mantengan proporciones adecuadas sin colapsar.  
- - Ahora, el bloque de texto (hero-text) se solapa de forma controlada sobre la imagen de fondo.  
- - Se ha aplicado globalmente el `box-sizing: border-box` para integrar padding y bordes en el cálculo de los anchos.  
- - Estos ajustes aseguran un diseño responsive coherente y una experiencia de usuario mejorada en distintos dispositivos.  
+  - Se ha iniciado la estilización de la sección de la tabla, mejorando la legibilidad y consistencia visual.  
+  - Se corrigió la sección del hero para que la imagen de fondo y el texto mantengan proporciones adecuadas sin colapsar.  
+  - Ahora, el bloque de texto (hero-text) se solapa de forma controlada sobre la imagen de fondo.  
+  - Se ha aplicado globalmente el `box-sizing: border-box` para integrar padding y bordes en el cálculo de los anchos.  
+  - Estos ajustes aseguran un diseño responsive coherente y una experiencia de usuario mejorada en distintos dispositivos.  
 
 - **Día 4**
   - Finalización de la tabla comparativa con efectos hover y optimización responsive
@@ -75,12 +75,12 @@ En esta sección se registrarán los avances diarios del proyecto.
   - Refinamiento de estilos en elementos interactivos con efectos hover (scale 1.05)
 
 - **Día 5**
- -  Se refinó el gradiente del `body` y se limitó el ancho del contenido con `max-width` para mejorar la legibilidad en pantallas grandes.  
- - Se aumentó el tamaño del título y se ajustaron los botones para mantener la coherencia visual.  
- -  Se mejoró el espaciado y la tipografía de la sección de comparación.  
- - Se implementó un acordeón interactivo con transiciones y estilos responsivos.  
- -  Se añadió un footer flexible con enlaces, redes sociales y una sección legal.  
- - Se mejoraron los efectos `hover` y `active` en botones para una experiencia de usuario más fluida.  
+  -  Se refinó el gradiente del `body` y se limitó el ancho del contenido con `max-width` para mejorar la legibilidad en pantallas grandes.  
+  - Se aumentó el tamaño del título y se ajustaron los botones para mantener la coherencia visual.  
+  -  Se mejoró el espaciado y la tipografía de la sección de comparación.  
+  - Se implementó un acordeón interactivo con transiciones y estilos responsivos.  
+  -  Se añadió un footer flexible con enlaces, redes sociales y una sección legal.  
+  - Se mejoraron los efectos `hover` y `active` en botones para una experiencia de usuario más fluida.  
 
 *(Cada día se irán añadiendo nuevas entradas según se vayan implementando cambios.)*
 
